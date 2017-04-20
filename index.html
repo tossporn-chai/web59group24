@@ -13,7 +13,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>BASICA! A Free Bootstrap3 HTML5 CSS3 Template by Vactual Art</title>
+    <title> AES : Agricultural Equipment Store. </title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.css" rel="stylesheet">
@@ -54,24 +54,22 @@
             <div class="collapse navbar-collapse">
                 <ul class="nav navbar-nav navbar-right">
                     <li class="active"><a href="index.html">Home</a></li>
-                    <li><a href="about-us.html">About Us</a></li>
-                    <li><a href="services.html">Services</a></li>
-                    <li><a href="portfolio.html">Portfolio</a></li>
+                    <li><a href="about-us.html">เกี่ยวกับเรา</a></li>
+                    <li><a href="services.html">การบริการ</a></li>
+                    <li><a href="portfolio.html">ผลงานที่ผ่านมา</a></li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages <i class="icon-angle-down"></i></a>
                         <ul class="dropdown-menu">
-                            <li><a href="#">Dropdown Menu 1</a></li>
-                            <li><a href="#">Dropdown Menu 2</a></li>
-                            <li><a href="#">Dropdown Menu 3</a></li>
-                            <li><a href="#">Dropdown Menu 4</a></li>
-                            <li><a href="#">Dropdown Menu 5</a></li>
-                            <li class="divider"></li>
-                            <li><a href="#">Privacy Policy</a></li>
-                            <li><a href="#">Terms of Use</a></li>
+                            <li><a href="#">อุปกรณ์ทางการเกษตร</a></li>
+							<li class="divider"></li>
+                            <li><a href="#">เคมีภัณฑ์ และ ปุ๋ยอินทรีย์</a></li>
+							<li class="divider"></li>
+                            <li><a href="#">เครื่องจักรกลทางการเกษตร</a></li>
+                            
                         </ul>
                     </li>
-                    <li><a href="blog.html">Blog</a></li> 
-                    <li><a href="contact-us.html">Contact</a></li>
+                    <li><a href="blog.html">นโยบาย วิสับทัศน์</a></li> 
+                    <li><a href="contact-us.html">ทีมงานของเรา</a></li>
                 </ul>
             </div>
         </div>
@@ -93,8 +91,8 @@
                         <div class="row">
                             <div class="col-sm-12">
                                 <div class="carousel-content centered">
-                                    <h2 class="animation animated-item-1">Welcome to BASICA! A Bootstrap3 Template</h2>
-                                    <p class="animation animated-item-2">Sed mattis enim in nulla blandit tincidunt. Phasellus vel sem convallis, mattis est id, interdum augue. Integer luctus massa in arcu euismod venenatis. </p>
+                                    <h2 class="animation animated-item-1">Welcome to AES : Agricultural Equipment Store</h2>
+                                    <p class="animation animated-item-2"> ขอต้อนรับ ชาวเกษตรทุกท่าน ใว้ใจเราให้เราช่วย จัดหาแนะนำ ทางด้านการเกษตร ของ เออีเอส AES เพื่อให้ไร่สวน ของท่านได้ผลผลิตที่งอกงาม </p>
                                 </div>
                             </div>
                         </div>
