@@ -103,8 +103,8 @@
                         <div class="row">
                             <div class="col-sm-12">
                                 <div class="carousel-content center centered">
-                                    <h2 class="animation animated-item-1">Powerful and Responsive HTML Template</h2>
-                                    <p class="animation animated-item-2">Phasellus adipiscing felis a dictum dictum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at ligula risus. </p>
+                                    <h2 class="animation animated-item-1">คุณต้องการอะไร  จากเรา ?</h2>
+                                    <p class="animation animated-item-2">ปุ๋ย เคมีภัณฑ์ </p>
                                     <br>
                                     <a class="btn btn-md animation animated-item-3" href="#">Learn More</a>
                                 </div>
